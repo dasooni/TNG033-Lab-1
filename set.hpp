@@ -3,6 +3,7 @@
 #include <iostream>
 #include <vector>
 #include <cassert>  //assert
+#include <algorithm>
 
 // Class Set represents a set of integers using an increasingly sorted singly-linked list
 class Set {
@@ -88,6 +89,7 @@ private:
     /* Add Auxiliarly functions below */
 
     void insert(Node* p, int value) const;
+
    
     
 };
