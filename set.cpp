@@ -1,6 +1,6 @@
 #include "set.hpp"
 
-
+// Author: Dasmit Sethi
 
 // std::size_t is defined in the C++ standard library
 // std::size_t is an unsigned integer type that can store the maximum size of any possible object
